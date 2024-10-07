@@ -26,5 +26,5 @@ To develop LawGPT as an effective assistance tool that streamlines the legal res
 
 ![](https://raw.githubusercontent.com/Sumit9623/LawGPT/refs/heads/master/result3.png)
 
-<img src="https://raw.githubusercontent.com/Sumit9623/LawGPT/refs/heads/master/result2.png" width="300"/> <img src="https://raw.githubusercontent.com/Sumit9623/LawGPT/refs/heads/master/result1.png" width="300"/> <img src="https://raw.githubusercontent.com/Sumit9623/LawGPT/refs/heads/master/result3.png" width="300"/> 
+<img src="https://raw.githubusercontent.com/Sumit9623/LawGPT/refs/heads/master/result2.png" width="350" height="600"/> <img src="https://raw.githubusercontent.com/Sumit9623/LawGPT/refs/heads/master/result1.png" width="350" height="600"/> <img src="https://raw.githubusercontent.com/Sumit9623/LawGPT/refs/heads/master/result3.png" width="350" height="600"/> 
 
